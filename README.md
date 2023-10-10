@@ -2,20 +2,20 @@
 
 created a machine learning model to predict flight prices using Random Forest Regression model.
 
-Steps implemented
+Steps implemented:
 
-Importing Libraries
+1. Importing Libraries
 
-Data Preprocessing (Both training and testing data)
+2. Data Preprocessing (Both training and testing data)
 
-EDA (Exploratory Data Analysis) (Both training and testing data)
+3. EDA (Exploratory Data Analysis) (Both training and testing data)
 
-Data Visualization
+4. Data Visualization
 
-Model Fitting
+5. Model Fitting
 
-Performance Evaluation
+6. Performance Evaluation
 
-Hyperparameter Tuning
+7. Hyperparameter Tuning
 
-Performance Evaluation after hyperparameter tuning
+8. Performance Evaluation after hyperparameter tuning
